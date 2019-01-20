@@ -1,1 +1,3 @@
-# syds-graphics me fist go at it
+# syds-graphics (creating T-shirt website)
+
+
