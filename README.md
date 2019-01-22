@@ -1,3 +1,3 @@
-# bizzle-plumbing (shittin on U Niccccas)
+# Building an interactive T-shirt web-site
 
 
